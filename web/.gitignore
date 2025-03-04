@@ -22,3 +22,22 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# Python environment files
+*.py[cod]
+__pycache__/
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+parts/
+var/
+sdist/
+*.manifest
+*.spec
+.installed.cfg
+*.egg-info/
+.installed.cfg
+*.egg
